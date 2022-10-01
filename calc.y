@@ -152,15 +152,15 @@ int main(int argc, char** argv)
 	scanf("%s", c);
 	//c = (char*)"p";
 	if (strcmp(c, "f")==0 || strcmp(c, "F")==0) {
-		printf("Start reading zf2182.input.txt:\n");
-		yyin = fopen("zf2182.input.txt", "r");
+		printf("Start reading input.txt:\n");
+		yyin = fopen("input.txt", "r");
 		if (!yyin) {
-			printf("ERROR: Couldn't open file zf2182.input.txt\n");
+			printf("ERROR: Couldn't open file input.txt\n");
 			exit(-1);
 		}
 		yyparse();
 		
-		printf("All done with zf2182.input.txt");
+		printf("All done with input.txt");
 	}
 	else{
 		// Command line

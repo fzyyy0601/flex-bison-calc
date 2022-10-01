@@ -1,0 +1,24 @@
+1+2*3
+1*4+2
+1*(4/2)-5
+10 mi_to_km
+(10 mi_to_km)*10+5
+23 KM_TO_MI
+log10 67
+abs -45
+5 mod 7
+6 mod 2
+abs -22
+var x = 6
+var z = 4
+var y = 3
+(x + y) *z
+PI
+pi * 6 + 1
+sin PI/2
+sin PI
+sin -PI
+200 gbp_to_euro
+2^10
+9!
+2@3
