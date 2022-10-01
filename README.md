@@ -44,8 +44,8 @@ calculator
 
 # Result
 ## Read in file
-![Read_in_file](C:\Users\冯ziyue\Desktop\1.jpg)
+![Read_in_file](1.jpg)
 ## Read in Command Line
-![Read_in_command_line](C:\Users\冯ziyue\Desktop\2.jpg)
+![Read_in_command_line](2.jpg)
 
 type int "exit", "quit", "EXIT" or "QUIT" to exit.
