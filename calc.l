@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "util1.h"
-#include "zf2182.calc.tab.h"
+#include "calc.tab.h"
 %}
 
 %option noyywrap

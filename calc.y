@@ -4,7 +4,7 @@
 #include <string.h>
 #include <math.h>
 #include "util.h"
-#include "zf2182.calc.tab.h"
+#include "calc.tab.h"
 
 /* Used for variable stores. Defined in mem.h */
 extern double variable_values[10];
